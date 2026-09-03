@@ -1,4 +1,15 @@
 {
   "version": "1.0",
-  "content": []
+  "content": [
+    {
+      "className": "10",
+      "subject": "Mathematics",
+      "chapter": "Chapter 1",
+      "notesPdf": "",
+      "shortNotesPdf": "",
+      "formulaPdf": "",
+      "chapterPdf": "",
+      "video": ""
+    }
+  ]
 }
