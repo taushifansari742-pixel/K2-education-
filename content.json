@@ -30,6 +30,16 @@
       "formulaPdf": "",
       "chapterPdf": "",
       "video": ""
+    },
+    {
+      "className": "10",
+      "subject": "Science",
+      "chapter": "Chapter 2",
+      "notesPdf": "https://drive.google.com/file/d/1ajf-6ATg3Elw9g1mlhIUCH3ApQ80CRe_/view?usp=drivesdk",
+      "shortNotesPdf": "",
+      "formulaPdf": "",
+      "chapterPdf": "",
+      "video": ""
     }
   ]
 }
