@@ -140,6 +140,16 @@
       "formulaPdf": "",
       "chapterPdf": "",
       "video": ""
+    },
+    {
+      "className": "10",
+      "subject": "Biology",
+      "chapter": "Chapter 3",
+      "notesPdf": "https://drive.google.com/file/d/1CW_mEERQeag02pXJeELJAwnBJzyzhaP8/view?usp=drivesdk",
+      "shortNotesPdf": "",
+      "formulaPdf": "",
+      "chapterPdf": "",
+      "video": ""
     }
   ]
 }
