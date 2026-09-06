@@ -120,6 +120,16 @@
       "formulaPdf": "",
       "chapterPdf": "",
       "video": ""
+    },
+    {
+      "className": "10",
+      "subject": "Chemistry",
+      "chapter": "Chapter 4",
+      "notesPdf": "https://drive.google.com/file/d/1C2MiXI_MfSRmyGVvK2K7d8z771MgyC3I/view?usp=drivesdk",
+      "shortNotesPdf": "",
+      "formulaPdf": "",
+      "chapterPdf": "",
+      "video": ""
     }
   ]
 }
