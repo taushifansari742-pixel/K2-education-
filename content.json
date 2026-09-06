@@ -60,6 +60,16 @@
       "formulaPdf": "",
       "chapterPdf": "",
       "video": ""
+    },
+    {
+      "className": "6",
+      "subject": "Science",
+      "chapter": "Chapter 1",
+      "notesPdf": "",
+      "shortNotesPdf": "",
+      "formulaPdf": "",
+      "chapterPdf": "",
+      "video": "https://www.youtube.com/live/SOHNApin_Qc?si=kL7yDwvMzKrPUCxq"
     }
   ]
 }
